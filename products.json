@@ -1,0 +1,34 @@
+[
+    {
+        "name": "iphone11",
+        "price": 95000,
+        "company": "apple"
+    },
+    
+    {
+        "name": "iphone12",
+        "price": 154000,
+        "company": "apple"
+    },
+    {
+        "name": "iwatch",
+        "price": 64000,
+        "company": "apple"
+    },
+    {
+        "name": "galaxyS20",
+        "price": 48000,
+        "company": "samsung"
+    },
+    {
+        "name": "note5",
+        "price": 69000,
+        "company": "mi"
+    },
+    {
+        "name": "note6",
+        "price": 79000,
+        "company": "mi"
+    }
+    
+]
